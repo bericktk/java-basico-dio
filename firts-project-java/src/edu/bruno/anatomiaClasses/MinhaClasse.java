@@ -7,8 +7,6 @@ public class MinhaClasse {
         String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
 
         System.out.println(nomeCompleto);
-
-        String [] meus_nomes = {"Jamylle", "Bruno", "Amaral"}; // Array de Strings
     }
 
     public static String nomeCompleto (String primeiroNome, String segundoNome){
